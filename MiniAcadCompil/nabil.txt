@@ -1,0 +1,45 @@
+
+
+
+
+
+PROGRAM Test
+var X || Y:INTEGER£
+var Q : INTEGER£
+Let S  INTEGER = 12£
+BEGIN
+Q=Ss+XX£
+P=22+QQ£
+GET("$":@Sd)£
+SHOW("Variable $":Q)£
+IF (X << Y):
+{ 
+Cc=Ef+Q£
+Ww=SS+M£
+SHOW("Variable $":Q)£
+
+RETURN(2.54)£
+}
+ELSE:
+{
+RETURN(N)£
+} 
+ENDIF
+GET("$":@Sd)£
+FOR(X:2 :R<<N)
+GET("$":@Sd)£
+ IF (X << Y):
+{ 
+Cc=Ef+Q£
+Ww=SS+M£
+SHOW("Variable $":Q)£
+RETURN(2.54)£
+}
+ELSE:
+{
+RETURN(N)£
+} 
+ENDIF
+END_FOR
+//CECI EST UN COMMENTAIRE//
+END
